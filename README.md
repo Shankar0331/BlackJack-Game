@@ -12,3 +12,5 @@ Welcome to the Blackjack Game repository! This web application allows users to p
 - HTML
 - CSS
 - JavaScript
+
+Feel free to contribute, report issues, or suggest improvements! May the cards be in your favor! 🃏
